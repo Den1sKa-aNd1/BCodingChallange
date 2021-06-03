@@ -28,6 +28,6 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BunningsCodingChallangeAPI\BunningsCodingChallengeAPI.csproj" />
+    <ProjectReference Include="..\BunningsCodingChallengeAPI\BunningsCodingChallengeAPI.csproj" />
   </ItemGroup>
 </Project>
